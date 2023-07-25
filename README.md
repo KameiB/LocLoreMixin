@@ -1,4 +1,4 @@
-# LocLore Mixin
+# Translatable Lore Mixin _(LocLore)_
 
 This is a Mixin that adds support for the much needed `LocLore` NBT tag.  
 
