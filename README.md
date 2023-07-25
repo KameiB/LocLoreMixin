@@ -1,4 +1,4 @@
-# LocLore
+# LocLore Mixin
 
 This is a Mixin that adds support for the much needed `LocLore` NBT tag.  
 
@@ -8,5 +8,8 @@ But Vanilla doesn't have that support for the `Lore` tag. That's when the `LocLo
 You can test with this command:  
 `/give @p stone 1 0 {display:{LocName:"tile.stone.andesiteSmooth.name",LocLore:["tile.shulkerBoxGray.name"]}}`  
 
-Remember to add the [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap) into your mods folder so any Mixin can load up!
+You'll need to add the [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap) into your mods folder so any Mixin can load up!  
 
+Remember to add your custom lang file and lang keys!  
+About text formatting, check this [article](https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes).  
+Example: `§cThis is a red text`  
