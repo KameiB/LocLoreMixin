@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${mod_id}",
+  "name": "${mod_name}",
+  "description": "Translatable Lore texts! A mixin that adds \"LocLore\" NBT tag compatibility.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KameiB"],
+  "credits": "fonnymunkey",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

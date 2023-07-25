@@ -1,0 +1,2 @@
+config.locloremixin.enableLocLore=Enable LocLore
+config.locloremixin.enableLocLore.tooltip=Enable LocLore NBT tag support
