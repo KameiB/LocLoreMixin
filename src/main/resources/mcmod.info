@@ -5,7 +5,7 @@
   "description": "Translatable Lore texts! A mixin that adds support for the much needed LocLore NBT tag.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://legacy.curseforge.com/minecraft/mc-mods/translatable-lore",
+  "url": "https://legacy.curseforge.com/minecraft/mc-mods/loc-lore",
   "updateUrl": "",
   "authorList": ["KameiB"],
   "credits": "fonnymunkey",
