@@ -19,7 +19,7 @@ apply plugin: 'maven-publish'
 version = "${mod_version}"
 //group = 'com.kameib.locloremixin' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 group = "${mod_id}"
-archivesBaseName = "${file_name}-1.12.2"
+archivesBaseName = "${file_name}"
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
 compileJava{
@@ -130,7 +130,7 @@ processResources {
     filesMatching('mcmod.info') {
         expand 'mod_id': mod_id, 'mod_name': mod_name, 'version': project.version,
                 'mcversion': minecraft_version, 'mod_description': mod_description,
-                'mod_author': 'KameiB'
+                'mod_author': mod_author
     }
 }
 
