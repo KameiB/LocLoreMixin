@@ -1,5 +1,9 @@
 # Translatable Lore Mixin _(LocLore)_
 
+[![CurseForge Downloads](https://cf.way2muchnoise.eu/loc-lore.svg)](https://legacy.curseforge.com/minecraft/mc-mods/loc-lore)
+[![CurseForge Versions](https://cf.way2muchnoise.eu/versions/loc-lore.svg)](https://legacy.curseforge.com/minecraft/mc-mods/loc-lore)  
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DKameiB%26type%3Dpatrons&style=flat)](https://patreon.com/KameiB)
+
 This is a Mixin that adds support for the much needed `LocLore` NBT tag.  
 
 Minecraft **1.12.2** supports the `LocName` tag, which allows users to replace an item's name with a custom, translatable one.  
