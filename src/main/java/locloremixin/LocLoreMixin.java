@@ -1,8 +1,6 @@
 package locloremixin;
 
 import net.minecraftforge.fml.common.Mod;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 @Mod(modid = LocLoreMixin.MODID, version = LocLoreMixin.VERSION, name = LocLoreMixin.NAME)
 public class LocLoreMixin {
